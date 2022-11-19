@@ -6,7 +6,7 @@ cat <<-EOF
     ********************************************************
     *                                                      *
     *                         !!!!                         *
-    *         This Mastodon image does not support         *
+    *         This Glitch-soc image does not support         *
     *          32 bit ARM for performance reasons          *
     *                                                      *
     *                                                      *
